@@ -1,6 +1,6 @@
 # Hi there, I'm Azizbek Arzikulov! 👋
 
-![Profile Banner](URL_TO_BANNER_IMAGE)
+![Profile Banner](https://avatars.githubusercontent.com/u/147023992?s=400&u=077de16c09d4d2501bfb5d36341452aa492a12c0&v=4)
 
 ## About Me
 
