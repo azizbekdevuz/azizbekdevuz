@@ -23,6 +23,16 @@ I am a passionate and versatile professional based in Seoul, South Korea. Curren
 
 Here are some of my notable projects:
 
+Here are some of my notable projects:
+
+### [portfolio-next](https://github.com/azizbekdevuz/portfolio-next)
+
+> **Description:** My portfolio website built using Next.js.
+
+### [dr-niaraki-website](https://github.com/azizbekdevuz/dr-niaraki-website)
+
+> **Description:** A website developed for Dr. Niaraki, utilizing TypeScript.
+
 ### [zdesigner-ai](https://github.com/azizbekdevuz/zdesigner-ai)
 
 > **Description:** Final project for the Web Programming course at Sejong University, developed using TypeScript.
@@ -34,10 +44,6 @@ Here are some of my notable projects:
 ### [portfolio](https://github.com/azizbekdevuz/portfolio)
 
 > **Description:** My personal portfolio website, highlighting my work and skills.
-
-### [dr-niaraki-website](https://github.com/azizbekdevuz/dr-niaraki-website)
-
-> **Description:** A website developed for Dr. Niaraki, utilizing TypeScript.
 
 ## Connect with Me
 
