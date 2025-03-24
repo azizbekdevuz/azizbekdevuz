@@ -1,30 +1,5 @@
-# Hi there, I'm Azizbek Arzikulov! 👋
-
-![Profile Banner](https://avatars.githubusercontent.com/u/147023992?s=400&u=077de16c09d4d2501bfb5d36341452aa492a12c0&v=4)
-
-## About Me
-
-I am a passionate and versatile professional based in Seoul, South Korea. Currently pursuing my studies at Sejong University, I wear multiple hats:
-
-- **Web Developer:** Crafting responsive and user-friendly websites.
-- **Graphic Designer:** Creating visually compelling designs.
-- **SMM Manager:** Strategizing and managing social media campaigns.
-- **Instructor:** Sharing knowledge through teaching and mentorship.
-- **Freelancer:** Delivering tailored solutions to clients.
-
-## Skills
-
-- **Languages:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-- **Frameworks:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-- **Design Tools:** ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white)
-- **Other Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-## Projects
-
-Here are some of my notable projects:
-
-Here are some of my notable projects:
-
+# 💫 About Me:
+🔭 I’m currently working on
 ### [portfolio-next](https://github.com/azizbekdevuz/portfolio-next)
 
 > **Description:** My portfolio website built using Next.js.
@@ -33,26 +8,23 @@ Here are some of my notable projects:
 
 > **Description:** A website developed for Dr. Niaraki, utilizing TypeScript.
 
-### [zdesigner-ai](https://github.com/azizbekdevuz/zdesigner-ai)
+### [interior-designer-ai](https://github.com/azizbekdevuz/interior-designer-ai)
 
 > **Description:** Final project for the Web Programming course at Sejong University, developed using TypeScript.
+<br>
+🌱 I’m currently learning MERN Full-Stack<br>
 
-### [VirtualInteriorDesignStudio](https://github.com/azizbekdevuz/VirtualInteriorDesignStudio)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arziqulovazizbek) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arziqulov__azizbek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azizbek-arzikulov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azizbek.dev.ac@gmail.com) 
 
-> **Description:** A virtual interior design studio project showcasing my HTML skills.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=azizbekdevuz&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=azizbekdevuz&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbekdevuz&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### [portfolio](https://github.com/azizbekdevuz/portfolio)
+---
+[![](https://visitcount.itsvg.in/api?id=azizbekdevuz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-> **Description:** My personal portfolio website, highlighting my work and skills.
-
-## Connect with Me
-
-- **Facebook:** [arziqulovazizbek](https://www.facebook.com/arziqulovazizbek)
-- **Instagram:** [azeezbek.uz](https://www.instagram.com/azeezbek.uz)
-- **Telegram:** [@azizbekdevuz](https://t.me/+Abz6kYFkTX9hNzFi)
-- **LinkedIn:** [Azizbek Arzikulov](https://www.linkedin.com/in/azizbek-arzikulov)
-- **Linktree:** [azizbekuz](https://linktr.ee/azizbekuz)
-
-## GitHub Stats
-
-![Azizbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizbekdevuz&show_icons=true&theme=radical)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
