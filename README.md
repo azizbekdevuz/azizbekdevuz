@@ -94,9 +94,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/azizbekdevuz/azizbekdevuz/output/snake.svg" alt="Snake animation" />
-
-###
