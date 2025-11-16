@@ -1,18 +1,14 @@
-<h2 align="left">Hi 👋! My name is Azizbek from Uzbekistan.</h2>
+<h2 align="left">Hi 👋! My name is Azizbek. I am Full-Stack Engineer</h2>
 
 ###
 
 # 🔭 I’m currently working on
- ## [portfolio-next](https://github.com/azizbekdevuz/portfolio-next)
+ ## [trainium](https://github.com/azizbekdevuz/trainium)
  
- > **Description:** My portfolio website built using Next.js.
+ > **Description:** E-commerce website featuring fitness equipments sales that allows to browse products with filtering/search/pagination, make online purchases, tracking orders and providing the admins to manage products/orders/customers with many operations, getting all analytics as well.
 
- ##  [dr-niaraki-website](https://github.com/azizbekdevuz/dr-niaraki-website)
- > **Description:** A website developed for Dr. Niaraki, utilizing TypeScript.
- 
- ## [interior-designer-ai](https://github.com/azizbekdevuz/interior-designer-ai)
- 
- > **Description:** Final project for the Web Programming course at Sejong University, developed using TypeScript.
+ ##  [fishlinic](https://github.com/azizbekdevuz/fishlinic)
+ > **Description:** A mono repo project that has ai services, web dashboard, socketio based nodejs bridge that reads realtime data that contains sensors of aquarium and passes to ai services and dashboard after quality inspection.
 
 ###
 
