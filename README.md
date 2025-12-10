@@ -1,22 +1,38 @@
-<h2 align="left">Hi 👋! My name is Azizbek. I am Full-Stack Engineer</h2>
+<h2 align="left">Hi 👋! My name is Azizbek. I am a Full-Stack Engineer</h2>
 
-###
+---
 
-# 🔭 I’m currently working on
- ## [trainium](https://github.com/azizbekdevuz/trainium)
- 
- > **Description:** E-commerce website featuring fitness equipments sales that allows to browse products with filtering/search/pagination, make online purchases, tracking orders and providing the admins to manage products/orders/customers with many operations, getting all analytics as well.
+## 🔭 I’m currently working on
 
- ##  [fishlinic](https://github.com/azizbekdevuz/fishlinic)
- > **Description:** A mono repo project that has ai services, web dashboard, socketio based nodejs bridge that reads realtime data that contains sensors of aquarium and passes to ai services and dashboard after quality inspection.
+### [trainium](https://github.com/azizbekdevuz/trainium)
+> **Description:** E-commerce website for fitness equipment, with product browsing (filters/search/pagination), online purchases, order tracking, and an admin panel to manage products, orders, customers, and analytics.
 
-###
+### [fishlinic](https://github.com/azizbekdevuz/fishlinic)
+> **Description:** Monorepo with AI services, a web dashboard, and a Socket.IO-based Node.js bridge that streams real-time aquarium sensor data to AI services and the dashboard after quality inspection.
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizbekdevuz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=azizbekdevuz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azizbekdevuz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=azizbekdevuz&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&hide_border=false"
+    height="150"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=azizbekdevuz&theme=prussian&hide_border=false"
+    height="150"
+    alt="GitHub streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbekdevuz&layout=compact&theme=prussian&hide_border=false"
+    height="150"
+    alt="Top languages"
+  />
 </div>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=azizbekdevuz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
 
