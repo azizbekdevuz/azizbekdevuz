@@ -13,21 +13,9 @@
 ---
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=azizbekdevuz&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&hide_border=false"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=azizbekdevuz&theme=prussian&hide_border=false"
-    height="150"
-    alt="GitHub streak"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbekdevuz&layout=compact&theme=prussian&hide_border=false"
-    height="150"
-    alt="Top languages"
-  />
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=azizbekdevuz&show_icons=true&theme=github_dark)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=azizbekdevuz&theme=github_dark)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=azizbekdevuz&layout=compact&theme=github_dark)
 </div>
 
 ---
