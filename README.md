@@ -12,11 +12,14 @@
 
 ---
 
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=azizbekdevuz&show_icons=true&theme=github_dark)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=azizbekdevuz&theme=github_dark)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=azizbekdevuz&layout=compact&theme=github_dark)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=azizbekdevuz&show_icons=true&theme=github_dark" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=azizbekdevuz&layout=compact&theme=github_dark" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=azizbekdevuz&theme=github_dark" height="160" />
+</p>
 
 ---
 
