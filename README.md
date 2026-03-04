@@ -20,7 +20,7 @@
 ### [fishlinic](https://github.com/azizbekdevuz/fishlinic)
 > **Description:** Monorepo with AI services, a web dashboard, and a Socket.IO-based Node.js bridge that streams real-time aquarium sensor data to AI services and the dashboard after quality inspection.
 
-### [git-guardian]([https://github.com/azizbekdevuz/fishlinic](https://github.com/azizbekdevuz/gitguardian))
+### [git-guardian](https://github.com/azizbekdevuz/gitguardian)
 > **Description:** A cross-platform (Windows/macOS/Linux) system that helps developers safely recover from git issues (merge conflicts, detached HEAD states, rebase-in-progress scenarios) via web application and npm package for cli support.
 
 ---
