@@ -7,8 +7,21 @@
 ### [trainium](https://github.com/azizbekdevuz/trainium)
 > **Description:** E-commerce website for fitness equipment, with product browsing (filters/search/pagination), online purchases, order tracking, and an admin panel to manage products, orders, customers, and analytics.
 
+### [fishlinic](https://github.com/azizbekdevuz/rumi-ai)
+> **Description:** A multilingual AI spiritual companion inspired by the poetry of Jalāl al-Dīn Rūmī. The system provides guidance and practical advice grounded in Rumi's literary works using Retrieval-Augmented Generation (RAG) and Large Language Models.
+
+---
+
+## 📚 Featured projects
+
+### [trainium](https://github.com/azizbekdevuz/trainium)
+> **Description:** E-commerce website for fitness equipment, with product browsing (filters/search/pagination), online purchases, order tracking, and an admin panel to manage products, orders, customers, and analytics.
+
 ### [fishlinic](https://github.com/azizbekdevuz/fishlinic)
 > **Description:** Monorepo with AI services, a web dashboard, and a Socket.IO-based Node.js bridge that streams real-time aquarium sensor data to AI services and the dashboard after quality inspection.
+
+### [fishlinic]([https://github.com/azizbekdevuz/fishlinic](https://github.com/azizbekdevuz/gitguardian))
+> **Description:** A cross-platform (Windows/macOS/Linux) system that helps developers safely recover from git issues (merge conflicts, detached HEAD states, rebase-in-progress scenarios) via web application and npm package for cli support.
 
 ---
 
